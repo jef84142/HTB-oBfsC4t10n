@@ -1,6 +1,6 @@
 # HackTheBox-Writeups(oBfsC4t10n)
 
-To start our hunt, we will use OLE tools to see if there are malicious macros in this XLSM file.
+To start our hunt, we will use OLE tools to see if there are malicious macros in this XLSM file provided by the challenge.
 
 OLE shows us this file includes a macro to execute LwTHLrGh.hta
 
